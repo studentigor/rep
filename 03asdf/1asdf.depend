@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1474562156 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ob51v/ob51vn07/Рабочий стол/1asdf/main.cpp
+	<iostream>
+	<fstream>
+
+1481216293 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ob51v/ob51vn07/Рабочий стол/02asdf/main.cpp
+	<iostream>
+	<fstream>
+
+1482420900 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ob51v/ob51vn07/Рабочий стол/03asdf/fun.cpp
+	<iostream>
+	<fstream>
+	"fun.h"
+
+1482422312 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ob51v/ob51vn07/Рабочий стол/03asdf/fun.h
+
+1482421588 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ob51v/ob51vn07/Рабочий стол/03asdf/main.cpp
+	<iostream>
+	<fstream>
+	"fun.h"
+
+1482757974 source:c:\users\msi\desktop\03asdf\main.cpp
+	<iostream>
+	<fstream>
+	"tele.h"
+
+1482757856 c:\users\msi\desktop\03asdf\tele.h
+
+1482758749 source:c:\users\msi\desktop\03asdf\tele.cpp
+	<iostream>
+	<fstream>
+	"tele.h"
+

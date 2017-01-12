@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477933345 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ob51v/ob51vn07/Рабочий стол/2asdf/1asdf/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
